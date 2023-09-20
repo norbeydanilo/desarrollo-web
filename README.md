@@ -7,6 +7,7 @@
 1. Desarrollo web: front-end, web, HTML, CSS, Bootstrap.
 2. Web semántica: concepto y generalidades.
 3. Seguridad web: principios, mecanimos, amenazas comunes en la web (SQL injection, command injection, remote command execution).
+4. Servidores web: concepto, tipo, funcionamiento.
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
@@ -14,7 +15,11 @@
 
 ### :pencil: Exercices 01 -
 
-### :computer: Exercices 02 -
+Follow this [repository](https://github.com/norbeydanilo/html-css-basic.git). You can find basic exercice about HTML, CSS and Bootstrap:
+
+- Flat [Salitre Mágico](https://www.salitremagico.com.co) page with HTML.
+- Flat [Salitre Mágico](https://www.salitremagico.com.co) page with HTML and CSS.
+- Carousel implementation in [Salitre Mágico](https://www.salitremagico.com.co) page with HTML and Bootstrap.
 
 ## Interesting links :heavy_check_mark:
 
