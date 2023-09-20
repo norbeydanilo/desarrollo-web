@@ -19,7 +19,7 @@ Follow this [repository](https://github.com/norbeydanilo/html-css-basic.git). Yo
 
 - Flat [Salitre Mágico](https://www.salitremagico.com.co) page with HTML.
 - Flat [Salitre Mágico](https://www.salitremagico.com.co) page with HTML and CSS.
-- Carousel implementation in flat [Salitre Mágico](https://www.salitremagico.com.co) page with HTML and Bootstrap.
+- Carousel implementation in flat [Salitre Mágico](https://www.salitremagico.com.co) page with HTML and [Bootstrap](https://getbootstrap.com).
 
 ## Interesting links :heavy_check_mark:
 
