@@ -13,7 +13,7 @@
 
 ## Exercices :notebook:
 
-### :pencil: Exercices 01 -
+### :pencil: Exercices 01 - basic web pages
 
 Follow this [repository](https://github.com/norbeydanilo/html-css-basic.git). You can find basic exercice about HTML, CSS and Bootstrap:
 
