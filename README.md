@@ -11,9 +11,9 @@
 
 :paperclip: Each topic has a presentation to review. Please see the presentations in the repository.
 
-## Exercices :notebook:
+## Exercises :notebook:
 
-### :pencil: Exercices 01 - basic web pages
+### :pencil: Exercises 01 - basic web pages
 
 Follow this [repository](https://github.com/norbeydanilo/html-css-basic.git). You can find basic exercice about HTML, CSS and Bootstrap:
 
